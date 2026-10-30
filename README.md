@@ -1,2 +1,2 @@
-# MT
-Репозиторий с плейлистами от Mudak-Telecom1 и логотипы каналов
+# MTR
+Репозиторий с плейлистами от Mudak-Telecom и логотипы каналов. Или же MTR (Mudak-Telecom-Repository)
