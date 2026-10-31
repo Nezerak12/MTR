@@ -65,12 +65,20 @@ http://31.210.208.171:8080/avto_24/index.m3u8?token=+W2MSER
 http://31.210.208.171:8080/moya_planeta/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="telekafe" tvg-logo="https://epg.iptvx.one/picons/telekafe.png" group-title="ТВ" ,Телекафе
 http://31.210.208.171:8080/telecafe/index.m3u8?token=+W2MSER
+#EXTINF:-1 tvg-id="rt-news" tvg-logo="https://epg.iptvx.one/picons/rt-news.png" group-title="ТВ" ,RT
+http://31.210.208.171:8080/rt/index.m3u8?token=+W2MSER
+#EXTINF:-1 tvg-id="izvestia" tvg-logo="https://epg.iptvx.one/picons/izvestia.png" group-title="ТВ" ,Izвестия
+https://bl.rutube.ru/livestream/3c47861a8b4b51639e41be092053b966/index.m3u8?s=b6MisU7KEPGPptR2vf_iuA&e=2093438958&scheme=https
 #EXTINF:-1 tvg-id="moskva-24" tvg-logo="https://epg.iptvx.one/picons/moskva-24.png" group-title="ТВ" ,Москва 24
 http://31.210.208.171:8080/moskva_24/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="bobior" tvg-logo="https://epg.iptvx.one/picons/bobior.png" group-title="ТВ" ,Бобёр
 https://flussonic.mkpnet.ru/tv-319cadb3fff5fb3e/video.m3u8
 #EXTINF:-1 tvg-id="360-news" tvg-logo="https://epg.iptvx.one/picons/360-news.png" group-title="ТВ" ,360RU
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://epg.iptvx.one/picons/discovery-channel.png" group-title="ТВ" ,Discovery Channel
+https://bl.rutube.ru/livestream/6422d62f7e1f87bc3aec45b462cd89ea/index.m3u8?s=haKdvDNTLlhUgkHfp9nzvA&e=2093437411&scheme=https
+#EXTINF:-1 tvg-id="animal-planet-eu" tvg-logo="https://epg.iptvx.one/picons/animal-planet-eu.png" group-title="ТВ" ,Animal Planet
+https://bl.rutube.ru/livestream/4004c8f6817b9ae1bd0d418905ae2b02/index.m3u8?s=bFbXgZ2bxZlTGZxvrr0tbA&e=2093437388&scheme=https
 #EXTINF:-1 tvg-id="cartoon-network" tvg-logo="https://iptvx.one/picons/cartoon-network.png" group-title="ТВ" ,Cartoon Network
 https://bl.rutube.ru/livestream/d2119cfb95146b3983cf05c1fe35e66f/index.m3u8?s=5WuShK9cewSeSwKI0mSPdg&e=2090445275&scheme=https
 #EXTINF:-1 tvg-id="nickelodeon-ru" tvg-logo="https://epg.iptvx.one/picons/nickelodeon-ru.png" group-title="ТВ" ,Nickelodeon
@@ -113,12 +121,12 @@ http://31.210.208.171:8080/o2/index.m3u8?token=+W2MSER
 http://31.210.208.171:8080/cinema/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="tlc" tvg-logo="https://epg.iptvx.one/picons/tlc.png" group-title="ТВ" ,TLC
 https://bl.rutube.ru/livestream/7c3d1a4cc0b4dff1176aa2dbb0b90000/index.m3u8?s=raxjOT1yNOcAmoUpzas4Fw&e=2092306715&scheme=https
-#EXTINF:-1 tvg-id="animach" tvg-logo="https://pic.rtbcdn.ru/user/3c/0b/3c0babf7d93dab49051fd17c08b634b1.jpg" group-title="ТВ" ,Анимач
-https://bl.rutube.ru/livestream/b3019a8983105f5e33f038246f860c32/index.m3u8?s=PAWUdVNHfKsSanPgB_USPg&e=2092306603&scheme=https
-#EXTINF:-1 tvg-id="multach" tvg-logo="https://pic.rtbcdn.ru/user/6a/0a/6a0a878f1c5c407dbaee949b1f6e8587.jpg" group-title="ТВ" ,Мультач
-https://bl.rutube.ru/livestream/76de13007ff82a001f786f148e9fd39a/index.m3u8?s=ZVX4eEMnIBQRITfgchDurg&e=2093263549&scheme=https
+#EXTINF:-1 tvg-id="travel-channel" tvg-logo="https://epg.iptvx.one/picons/travel-channel.png" group-title="ТВ" ,Travel Channel
+https://bl.rutube.ru/livestream/4196566bc9c3b7b854074ad1a9a2db36/index.m3u8?s=TEiZdjhWoAwal5y49lliIw&e=2093437343&scheme=https
 #EXTINF:-1 tvg-id="national-geographic" tvg-logo="https://epg.iptvx.one/picons/national-geographic.png" group-title="ТВ" ,National Geographic
 https://bl.rutube.ru/livestream/2619fc295c16585ef018041d88f14db0/index.m3u8?s=jIY4Y8UugJQC5RzHXlLYRg&e=2092307184&scheme=https
+#EXTINF:-1 tvg-id="nat-geo-wild-pl" tvg-logo="https://epg.iptvx.one/picons/nat-geo-wild-pl.png" group-title="ТВ" ,National Geographic WILD
+https://bl.rutube.ru/livestream/c11af26c0ab831ce6c37a4888056479b/index.m3u8?s=DlrufQNvpLwe1AP1nNJwyA&e=2093437444&scheme=https
 #EXTINF:-1 tvg-id="fanhd" tvg-logo="https://epg.iptvx.one/picons/fanhd.png" group-title="ТВ" ,FAN
 http://31.210.208.171:8080/fan/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="hollywood" tvg-logo="https://epg.iptvx.one/picons/hollywood.png" group-title="ТВ" ,Hollywood
@@ -131,6 +139,24 @@ http://176.118.197.101/Kinopokaz/index.m3u8
 http://31.210.208.171:8080/dom_kino/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="nst" tvg-logo="https://epg.iptvx.one/picons/nst.png" group-title="ТВ" ,НСТ
 http://31.210.208.171:8080/nst/index.m3u8?token=+W2MSER
+#EXTINF:-1 tvg-id="m1global" tvg-logo="https://epg.iptvx.one/picons/m1global.png" group-title="ТВ" ,MMA-TV
+http://31.210.208.171:8080/mma_tv/index.m3u8?token=+W2MSER
+#EXTINF:-1 tvg-id="animach" tvg-logo="https://raw.githubusercontent.com/Nezerak12/MTR/main/icons/animach.png" group-title="Rutube" ,Анимач
+https://bl.rutube.ru/livestream/b3019a8983105f5e33f038246f860c32/index.m3u8?s=PAWUdVNHfKsSanPgB_USPg&e=2092306603&scheme=https
+#EXTINF:-1 tvg-id="animach_2" tvg-logo="https://raw.githubusercontent.com/Nezerak12/MTR/main/icons/animach_2.png" group-title="Rutube" ,Анимач 2
+https://bl.rutube.ru/livestream/ec5267347fa50d03edba227906eba679/index.m3u8?s=U3eUAA9gSU2s07L-32Yk0Q&e=2093439043&scheme=https
+#EXTINF:-1 tvg-id="multach" tvg-logo="https://raw.githubusercontent.com/Nezerak12/MTR/main/icons/multach.png" group-title="Rutube" ,Мультач
+https://bl.rutube.ru/livestream/76de13007ff82a001f786f148e9fd39a/index.m3u8?s=ZVX4eEMnIBQRITfgchDurg&e=2093263549&scheme=https
+#EXTINF:-1 tvg-id="filmach" tvg-logo="https://raw.githubusercontent.com/Nezerak12/MTR/main/icons/filmach.png" group-title="Rutube" ,Фильмач
+https://bl.rutube.ru/livestream/300560a65014ec501a25b1f79df9ad90/index.m3u8?s=1mBeXzjqnFBhjUFeAyGE5g&e=2093437642&scheme=https
+#EXTINF:-1 tvg-id="obrozovach" tvg-logo="https://raw.githubusercontent.com/Nezerak12/MTR/main/icons/obrozovach.png" group-title="Rutube" ,Образовач
+https://bl.rutube.ru/livestream/eddcc86d1dee0b5def546ea388eb38ea/index.m3u8?s=G3ZwPxA6CqOR83UQ-PEyrg&e=2093437690&scheme=https
+#EXTINF:-1 tvg-id="indivach" tvg-logo="https://raw.githubusercontent.com/Nezerak12/MTR/main/icons/indivach.png" group-title="Rutube" ,Индивач
+https://bl.rutube.ru/livestream/8b077d20877c0cd70b5bc4a090b9f37e/index.m3u8?s=ndidDDmYHkJdcS1ZpKduJQ&e=2093437761&scheme=https
+#EXTINF:-1 tvg-id="amerekach" tvg-logo="https://raw.githubusercontent.com/Nezerak12/MTR/main/icons/amerekach.png" group-title="Rutube" ,Амерекач
+https://bl.rutube.ru/livestream/4d06d4d152d087f3792a5b15dc729562/index.m3u8?s=ij9e-23q8pOULD1ASSkQXA&e=2093437827&scheme=https
+#EXTINF:-1 tvg-id="muzach" tvg-logo="https://raw.githubusercontent.com/Nezerak12/MTR/main/icons/muzach.png" group-title="Rutube" ,Музач
+https://bl.rutube.ru/livestream/e7e04192431a24a750fd8704fa221461/index.m3u8?s=I3P-dCUWH683iAM4ef5Kug&e=2093437875&scheme=https
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="https://epg.iptvx.one/picons/match-premiere.png" group-title="Матч!" ,Матч! Премьер
 http://185.23.80.23:8080/MATCH_PREMIER/index.m3u8
 #EXTINF:-1 tvg-id="match-boets" tvg-logo="https://epg.iptvx.one/picons/match-boec.png" group-title="Матч!" ,Матч! Боец
@@ -169,11 +195,11 @@ https://stream.smotrim.ru/hls3/fasttv04/playlist_3.m3u8
 https://stream.smotrim.ru/hls3/fasttv05/playlist_3.m3u8
 #EXTINF:-1 tvg-id="smotrim-100-fakty" tvg-logo="https://raw.githubusercontent.com/Nezerak12/MTR/main/icons/smotrim_fakty.png" group-title="Смотрим" ,Смотрим 100% Факты
 https://stream.smotrim.ru/hls3/fasttv06/playlist_3.m3u8
-#EXTINF:-1 tvg-id="smotrim-100-gorkogo" tvg-logo="https://raw.githubusercontent.com/Nezerak12/MTR/main/icons/smotrim_gorkogo.png" group-title="Смотрим" ,Смотрим 100% Горького
+#EXTINF:-1 tvg-id="smotrim-100-gorkogo" tvg-logo="https://raw.githubusercontent.com/Nezerak12/MTR/main/icons/smotrim_gorkogo.jpg" group-title="Смотрим" ,Смотрим 100% Горького
 https://stream.smotrim.ru/hls3/fasttv07/playlist_3.m3u8
-#EXTINF:-1 tvg-id="smotrim-100-tok-shou" tvg-logo="https://raw.githubusercontent.com/Nezerak12/MTR/main/icons/smotrim_tok_show.png" group-title="Смотрим" ,Смотрим 100% Ток-Шоу
+#EXTINF:-1 tvg-id="smotrim-100-tok-shou" tvg-logo="https://raw.githubusercontent.com/Nezerak12/MTR/main/icons/smotrim_tok_show.jpg" group-title="Смотрим" ,Смотрим 100% Ток-Шоу
 https://stream.smotrim.ru/hls3/fasttv09/playlist_3.m3u8
-#EXTINF:-1 tvg-id="smotrim-100-k-odnomu" tvg-logo="https://raw.githubusercontent.com/Nezerak12/MTR/main/icons/smotrim_100k1.png" group-title="Смотрим" ,Смотрим 100% К Одному
+#EXTINF:-1 tvg-id="smotrim-100-k-odnomu" tvg-logo="https://raw.githubusercontent.com/Nezerak12/MTR/main/icons/smotrim_100k1.jpg" group-title="Смотрим" ,Смотрим 100% К Одному
 https://stream.smotrim.ru/hls3/fasttv08/playlist_3.m3u8
 #EXTINF:-1 tvg-id="tv1000" tvg-logo="https://epg.iptvx.one/picons/tv1000.png" group-title="Viju" ,Viju TV1000
 http://46.53.200.153:7777/play/TV_1000/index.m3u
@@ -223,7 +249,7 @@ http://31.210.208.171:8080/muzhskoe_kino/index.m3u8?token=+W2MSER
 https://listen.vdfm.ru:8000/radiorussia
 #EXTINF:-1 tvg-id="radio-vesti" tvg-logo="https://raw.githubusercontent.com/Nezerak12/MTR/main/icons/r_vestifm.webp" group-title="Радио" ,Вести FM
 https://icecast-vgtrk.cdnvideo.ru/vestifm
-#EXTINF:-1 tvg-id="radio-mayak" tvg-logo="https://avatars.mds.yandex.net/get-music-misc/70850/img.6a05a6df9f12022e9d458b25/300x300" group-title="Радио" ,Маяк
+#EXTINF:-1 tvg-id="radio-mayak" tvg-logo="https://raw.githubusercontent.com/Nezerak12/MTR/main/icons/r_mayak.webp" group-title="Радио" ,Маяк
 https://icecast-vgtrk.cdnvideo.ru/mayakfm
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/get-music-misc/70850/img.6a05a6919dbba16c16219811/300x300" group-title="Радио" ,Comedy Радио
 https://hls-01-gpm.hostingradio.ru/comedyradio7/playlist.m3u8

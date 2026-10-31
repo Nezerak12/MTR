@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_LITE"
-#PLAYLIST:MT_MINI
+#PLAYLIST:MudakTelecom
 
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="ТВ" ,Первый канал
 https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=698ByfaXoRZxSTAYzpCkaw&e=2091788900&scheme=https
@@ -69,8 +69,6 @@ https://stream.smotrim.ru/hls3/fasttv07/playlist_3.m3u8
 https://stream.smotrim.ru/hls3/fasttv09/playlist_3.m3u8
 #EXTINF:-1 tvg-id="smotrim-100-k-odnomu" tvg-logo="https://raw.githubusercontent.com/Nezerak12/MTR/main/icons/smotrim_100k1.jpg" group-title="Смотрим" ,Смотрим 100% К Одному
 https://stream.smotrim.ru/hls3/fasttv08/playlist_3.m3u8
-#EXTINF:-1 tvg-id="chestny-detektiv" tvg-logo="https://raw.githubusercontent.com/Nezerak12/MTR/main/icons/smotrim_chestiy_detektiv.png" group-title="Смотрим" ,Смотрим Честный детектив
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="radio-rossii" tvg-logo="https://raw.githubusercontent.com/Nezerak12/MTR/main/icons/r_rossii.webp" group-title="Радио" ,Радио России
 http://icecast-vgtrk.cdnvideo.ru/rrzonam
 #EXTINF:-1 tvg-id="radio-vesti" tvg-logo="https://raw.githubusercontent.com/Nezerak12/MTR/main/icons/r_vestifm.webp" group-title="Радио" ,Вести FM
