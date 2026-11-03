@@ -115,6 +115,36 @@ https://bl.rutube.ru/livestream/5a294ae1ed12c44c7053301fb5fa9ba0/index.m3u8?s=In
 http://176.118.197.101/1HD/index.m3u8
 #EXTINF:-1 tvg-id="o2tv" tvg-logo="https://epg.iptvx.one/picons/o2tv.png" group-title="ТВ" ,O!2
 http://31.210.208.171:8080/o2/index.m3u8?token=+W2MSER
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Nezerak12/MTR/refs/heads/main/icons/record_dr.png" group-title="Record" ,Record Dance Radio
+https://bl.rutube.ru/livestream/21675e5154442266a0c154f168a6b019/index.m3u8?s=uBYSHXT7A_JyOs_gAZyOVw&e=2092608950&scheme=https
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Nezerak12/MTR/refs/heads/main/icons/record_sd90x.png" group-title="Record" ,Record Супер Диско 90x
+https://bl.rutube.ru/livestream/351f0e84a7db69a73658bbf61debcf62/index.m3u8?s=Y2-9Gj0vA9GjkUruEjoBJw&e=2092608949&scheme=https
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Nezerak12/MTR/refs/heads/main/icons/record_bh.png" group-title="Record" ,Record Big Hits
+https://bl.rutube.ru/livestream/c7b8a6f89c95f9d224d7811d4489d5f7/index.m3u8?s=zydtxNaIuaXu5zHOI8NfrQ&e=2092608949&scheme=https
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Nezerak12/MTR/refs/heads/main/icons/record_mm.png" group-title="Record" ,Record Megamix
+https://bl.rutube.ru/livestream/60b73481dcc9880850f22690142c8d17/index.m3u8?s=BV9Mjs27r57GRDKN_XlzGA&e=2092608950&scheme=https
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Nezerak12/MTR/refs/heads/main/icons/record_rh.png" group-title="Record" ,Record Russian Hits
+https://bl.rutube.ru/livestream/b5f4e1d43e11888455a0a66f0872e77b/index.m3u8?s=35WPKrGsDQMScESAV_voaw&e=2092608950&scheme=https
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Nezerak12/MTR/refs/heads/main/icons/record_rm.png" group-title="Record" ,Record Russian Mix
+https://bl.rutube.ru/livestream/2f3e5c6a66617c063f12d8d5d49248c7/index.m3u8?s=miHDy6zSPerdAGK2BGkxdg&e=2092608951&scheme=https
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Nezerak12/MTR/refs/heads/main/icons/record_gfm.png" group-title="Record" ,Record Гоп FM
+https://bl.rutube.ru/livestream/b575eaf54bd00d5fb079c55988bc0f24/index.m3u8?s=y56l0Pvkp-FuYVy2eWkBHQ&e=2092608950&scheme=https
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Nezerak12/MTR/refs/heads/main/icons/record_r.png" group-title="Record" ,Record Rock
+https://bl.rutube.ru/livestream/a1bad1d3fee40a92df8f3d8d3de16821/index.m3u8?s=725o2F922X3dziSXWHhHvQ&e=2092608949&scheme=https
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Nezerak12/MTR/refs/heads/main/icons/record_d.png" group-title="Record" ,Record Deep
+https://bl.rutube.ru/livestream/9249feec1c78e5414f68ecf40a6645d2/index.m3u8?s=HrATKXk8TwX_Q3Wc98afeA&e=2092608951&scheme=https
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Nezerak12/MTR/refs/heads/main/icons/record_p.png" group-title="Record" ,Record Phonk
+https://bl.rutube.ru/livestream/f972da70f03eee3d14fcff4113a8b6e4/index.m3u8?s=KfqMrhc_cGzvg0lnUIl4-Q&e=2092608951&scheme=https
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Nezerak12/MTR/refs/heads/main/icons/record_dnb.png" group-title="Record" ,Record Drum n Bass
+https://bl.rutube.ru/livestream/dc756dfadfdb320e9cec39b35def79e3/index.m3u8?s=gESDyZNtE5uY7y9WVTWSdA&e=2092608952&scheme=https
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Nezerak12/MTR/refs/heads/main/icons/record_co.png" group-title="Record" ,Record Chill-Out
+https://bl.rutube.ru/livestream/6ad623fe9b908f3823c47e77cd981cd4/index.m3u8?s=zF6lySgz4_7RYTjyiWe5Vw&e=2092608952&scheme=https
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Nezerak12/MTR/refs/heads/main/icons/record_ch.png" group-title="Record" ,Record Chill-House
+https://bl.rutube.ru/livestream/149b862a6f45faed8800e28c15066c21/index.m3u8?s=uu8NnXltBBdwiclbDKdCVA&e=2092608952&scheme=https
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Nezerak12/MTR/refs/heads/main/icons/record_tbi.png" group-title="Record" ,Record Techno by Innocence
+https://bl.rutube.ru/livestream/a385dcd78395ea7740d1aed28980fe6c/index.m3u8?s=nQLSa50WQiFncv5kLoCOoA&e=2092608952&scheme=https
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Nezerak12/MTR/refs/heads/main/icons/record_t.png" group-title="Record" ,Record Trance
+https://bl.rutube.ru/livestream/26aeb9043f519687846255556ee891aa/index.m3u8?s=BIkoGspocyOmmm99fn4rQw&e=2092608953&scheme=https
 #EXTINF:-1 tvg-id="cinema-ru" tvg-logo="https://epg.iptvx.one/picons/cinema-ru.png" group-title="ТВ" ,Cinema
 http://31.210.208.171:8080/cinema/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="tlc" tvg-logo="https://epg.iptvx.one/picons/tlc.png" group-title="ТВ" ,TLC
@@ -123,8 +153,6 @@ https://bl.rutube.ru/livestream/7c3d1a4cc0b4dff1176aa2dbb0b90000/index.m3u8?s=ra
 https://bl.rutube.ru/livestream/4196566bc9c3b7b854074ad1a9a2db36/index.m3u8?s=TEiZdjhWoAwal5y49lliIw&e=2093437343&scheme=https
 #EXTINF:-1 tvg-id="national-geographic" tvg-logo="https://epg.iptvx.one/picons/national-geographic.png" group-title="ТВ" ,National Geographic
 https://bl.rutube.ru/livestream/2619fc295c16585ef018041d88f14db0/index.m3u8?s=jIY4Y8UugJQC5RzHXlLYRg&e=2092307184&scheme=https
-#EXTINF:-1 tvg-id="nat-geo-wild-pl" tvg-logo="https://epg.iptvx.one/picons/nat-geo-wild-pl.png" group-title="ТВ" ,National Geographic WILD
-https://bl.rutube.ru/livestream/c11af26c0ab831ce6c37a4888056479b/index.m3u8?s=DlrufQNvpLwe1AP1nNJwyA&e=2093437444&scheme=https
 #EXTINF:-1 tvg-id="fanhd" tvg-logo="https://epg.iptvx.one/picons/fanhd.png" group-title="ТВ" ,FAN
 http://31.210.208.171:8080/fan/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="prodvizhenie" tvg-logo="https://epg.iptvx.one/picons/prodvizhenie.png" group-title="ТВ" ,ПРОDВИЖЕНИЕ
